@@ -20,6 +20,7 @@ Run the requirement.txt file to install all the dependencies.
 4. Examples of use  
 5. Evaluate model  
 ## Pre-processing Data
+The Preprocessing notebook has a full spectral preprocessing tutorial using filter and baseline correction. The figure defines how a baseline was choosen and was subtracted from spectrum data.
 ![Optional Text](../master/img/baseline.png)
 
 ## Imbalanced data set
