@@ -1,10 +1,9 @@
 # LIVE-r
 ## Liver cancer detection and classification system
 
-The methodology to build predictive models on highly skewed data by selecting an example of fraudulent transactions in the financial institutions. This methodology can be applied to any domain to generate predictive system on skewed datasets.
-Introduction - the project's aim
-Technologies
-Launch
+The methodology to build predictive models on five classes of skewed data by selecting Raman spectrum data of blood samples. This methodology can be applied to any domain to generate predictive system on skewed datasets and many features.
+
+##Technologies
 
 ## File Structure
 
