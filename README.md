@@ -19,11 +19,11 @@ Run the requirement.txt file to install all the dependencies.
 3. Xgboost  
 4. Examples of use  
 5. Evaluate model  
-## Pre-processing Data
+## 1. Pre-processing Data
 The Preprocessing notebook has a full spectral preprocessing tutorial using filter and baseline correction. The figure defines how a baseline was choosen and was subtracted from spectrum data.
 ![Optional Text](../master/img/baseline.png)
 
-## Imbalanced data set
+## 2. Imbalanced data set
 When faced with imbalanced data sets there is no one stop solution to improve the accuracy of the prediction model. In most cases, synthetic techniques like SMOTE will outperform the conventional oversampling and undersampling methods. In this pattern, we can see the changes in the output with different runs using different techniques and users can play around a bit with the parameters tuning to arrive at optimum results. This is an attempt to demonstrate the methodology to handle skewed data and generate predictive models.
-## Xgboost
+## 3. Xgboost
 Depending on the system configueration, we can select the Bagging or Boosting Algorithm. Bagging improves accuracy of machine learning algorithms by creating aggregated models with less variance. Boosting is an ensemble technique which emphasizes on training for weak learners to create a strong learner that can make accurate predictions.
