@@ -13,11 +13,11 @@ Run the requirement.txt file to install all the dependencies.
 * `Deployment`: Folder deployed to AWS.
 ## Architecture Diagram
 ![Optional Text](../master/img/archi.png)
-User logs into Watson Studio, creates an instance which includes object storage.  
-User uploads the csv file to the object storage.  
-User imports a Jupyter Notebook from the URL.  
-User runs the statistical models and sampling techniques in the notebook.  
-User exports the predictive modelling results to the object storage.  
+1.User logs into Watson Studio, creates an instance which includes object storage.  
+2.User uploads the csv file to the object storage.  
+3.User imports a Jupyter Notebook from the URL.  
+4.User runs the statistical models and sampling techniques in the notebook.  
+5.User exports the predictive modelling results to the object storage.  
 ## Steps
 1.Pre-processing Data  
 2. Imbalanced data set  
