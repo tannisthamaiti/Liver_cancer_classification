@@ -3,7 +3,8 @@
 
 The methodology to build predictive models on five classes of skewed data by selecting Raman spectrum data of blood samples. This methodology can be applied to any domain to generate predictive system on skewed datasets and many features.
 
-##Technologies
+## Dev Environment
+Run the requirement.txt file to install all the dependencies.
 
 ## File Structure
 
