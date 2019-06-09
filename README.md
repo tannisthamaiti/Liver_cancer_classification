@@ -18,6 +18,7 @@ Run the requirement.txt file to install all the dependencies.
 2. Imbalanced data set  
 3. Xgboost  
 4. Examples of use  
+5. Evaluate model  
 ## Pre-processing Data
 ![Optional Text](../master/img/baseline.png)
 
