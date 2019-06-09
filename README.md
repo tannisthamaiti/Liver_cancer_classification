@@ -5,8 +5,7 @@ The methodology to build predictive models on highly skewed data by selecting an
 ## File Structure
 
 * `binary_spectrum.py, multiclass_spectrum.py, multiclass_pca_spectrum.py`: main file
-* `vocab.py`: script used to generate `.bin` vocabulary file from parallel corpus
-* `util.py`: script containing helper functions
+* `pre_process.py`: script used to pre_process spectrum samples.
 ## Architecture Diagram
 ![Optional Text](../master/img/archi.png)
 ## Pre-processing Data
