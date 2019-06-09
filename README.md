@@ -2,10 +2,20 @@
 ## Liver cancer detection and classification system
 
 The methodology to build predictive models on highly skewed data by selecting an example of fraudulent transactions in the financial institutions. This methodology can be applied to any domain to generate predictive system on skewed datasets.
+Introduction - the project's aim
+Technologies
+Launch
+
 ## File Structure
 
 * `binary_spectrum.py, multiclass_spectrum.py, multiclass_pca_spectrum.py`: main file
 * `pre_process.py`: script used to pre_process spectrum samples.
+Illustrations
+Scope of functionalities 
+Examples of use
+Project status 
+Sources
+Other information
 ## Architecture Diagram
 ![Optional Text](../master/img/archi.png)
 ## Pre-processing Data
