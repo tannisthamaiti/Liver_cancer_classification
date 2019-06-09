@@ -14,13 +14,10 @@ Run the requirement.txt file to install all the dependencies.
 ## Architecture Diagram
 ![Optional Text](../master/img/archi.png)
 ## Steps
-1.Pre-processing Data
-<br\>
-2. Imbalanced data set
-<br\>
-3. Xgboost
-<br\>
-4. Examples of use
+1.Pre-processing Data  
+2. Imbalanced data set  
+3. Xgboost  
+4. Examples of use  
 ## Pre-processing Data
 ![Optional Text](../master/img/baseline.png)
 
