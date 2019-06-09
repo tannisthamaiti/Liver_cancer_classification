@@ -8,16 +8,18 @@ Run the requirement.txt file to install all the dependencies.
 
 ## File Structure
 
-* `binary_spectrum.py, multiclass_spectrum.py, multiclass_pca_spectrum.py`: main file
+* `binary_spectrum.py, multiclass_spectrum.py, multiclass_pca_spectrum.py`: main file.
 * `pre_process.py`: script used to pre_process spectrum samples.
-Illustrations
+* `Deployment`: Folder deployed to AWS.
+## Architecture Diagram
+![Optional Text](../master/img/archi.png)
+## Steps
+Pre-processing Data
 Scope of functionalities 
 Examples of use
 Project status 
 Sources
 Other information
-## Architecture Diagram
-![Optional Text](../master/img/archi.png)
 ## Pre-processing Data
 ![Optional Text](../master/img/baseline.png)
 
