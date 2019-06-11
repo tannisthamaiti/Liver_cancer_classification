@@ -33,11 +33,10 @@ When faced with imbalanced data sets there is no one stop solution to improve th
 ## 3. Xgboost
 Depending on the system configueration, we can select the Bagging or Boosting Algorithm. Bagging improves accuracy of machine learning algorithms by creating aggregated models with less variance. Boosting is an ensemble technique which emphasizes on training for weak learners to create a strong learner that can make accurate predictions.
 ## 5. Evaluate model
-| Class        | Precision (%)           | Recall  |
+| Class        | Precision (%)           | Recall (%) |
 | ------------- |:-------------:| -----:|
-| Normal     | 90 | 90|
-| Disease 1      | 90      |   90 |
-| Disease 2 | 90      |  90 |
-| Disease 3 | 90      |  90 |
-
-| Disease 4 | 90     |   90 |
+| Normal    | 90 | 80 |
+| Disease 1 | 71 | 34 |
+| Disease 2 | 63 | 88 |
+| Disease 3 | 70 | 56 |
+| Disease 4 | 75 | 51 |
