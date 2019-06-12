@@ -32,7 +32,7 @@ When faced with imbalanced data sets there is no one stop solution to improve th
 ## 3. Xgboost
 Depending on the system configueration, we can select the Bagging or Boosting Algorithm. Bagging improves accuracy of machine learning algorithms by creating aggregated models with less variance. Boosting is an ensemble technique which emphasizes on training for weak learners to create a strong learner that can make accurate predictions.
 ## 4. Example of Use
-Python file `multiclass_spectrum.py` gives results for recall and precision. 
+Python file `multiclass_spectrum.py` gives results for recall and precision for multiclass classificiation. 
 ## 5. Evaluate model
 | Class        | Precision (%)           | Recall (%) |
 | ------------- |:-------------:| -----:|
