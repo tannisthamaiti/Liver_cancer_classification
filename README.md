@@ -15,7 +15,7 @@ Run the requirement.txt file to install all the dependencies.
 ![Optional Text](../master/img/archi.png)
 1.Spectral data are pre-processed with filter and baseline correction.  
 2.Saved as csv file.
-3.Run machine learning models for classification.  
+3.Run machine learning models for classification.    
 4.Deploy to amazon web app.
 ## Steps
 1.Pre-processing Data  
