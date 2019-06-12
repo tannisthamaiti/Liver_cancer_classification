@@ -13,11 +13,10 @@ Run the requirement.txt file to install all the dependencies.
 * `Deployment`: Folder deployed to AWS.
 ## Architecture Diagram
 ![Optional Text](../master/img/archi.png)
-1.User logs into Watson Studio, creates an instance which includes object storage.  
-2.User uploads the csv file to the object storage.  
-3.User imports a Jupyter Notebook from the URL.  
-4.User runs the statistical models and sampling techniques in the notebook.  
-5.User exports the predictive modelling results to the object storage.  
+1.Spectral data are pre-processed with filter and baseline correction.  
+2.Saved as csv file.
+3.Run machine learning models for classification.  
+4.Deploy to amazon web app.
 ## Steps
 1.Pre-processing Data  
 2. Imbalanced data set  
