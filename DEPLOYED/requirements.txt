@@ -1,0 +1,13 @@
+flask=1.0.2                    
+jsonpickle=1.0                       
+jsonschema=2.6.0             
+numpy=1.14.3           
+pandas=0.23.0           
+requests=2.18.4           
+scikit-image=0.13.1            
+scikit-learn=0.19.1             
+scikit-learn=0.19.1           
+scipy=1.0.1                    
+scipy=1.1.0             
+sklearn=0.0                      
+werkzeug=0.14.1                   
