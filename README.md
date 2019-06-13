@@ -1,5 +1,7 @@
 # LIVE-r
 Please find demo of app here
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 [LIVE-r](https://www.youtube.com/watch?v=yxggWnGFvZA&feature=youtu.be)
 ## Liver cancer detection and classification system
 A web application that can be used by clinicians to detect presence of liver cancer. The input parameter to the app is Raman spectrum files that are in wdf format. The model is based on a machine learning algorithm that is trained on 10000 blood samples which gives an accuracy of 97%.
