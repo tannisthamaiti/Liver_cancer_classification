@@ -1,6 +1,6 @@
 # LIVE-r
 Please find demo of app here
-[![Audi R8](../master/img/archi.png)](https://www.youtube.com/watch?v=yxggWnGFvZA&feature=youtu.be "Audi R8")
+[![Audi R8](../master/img/LIVE-r.png)](https://www.youtube.com/watch?v=yxggWnGFvZA&feature=youtu.be "Audi R8")
 
 [LIVE-r](https://www.youtube.com/watch?v=yxggWnGFvZA&feature=youtu.be)
 ## Liver cancer detection and classification system
