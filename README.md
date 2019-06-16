@@ -1,6 +1,6 @@
 # LIVE-r
 Please find demo of app here
-[![LIVE-r](../master/img/LIVE-r.png)](https://www.youtube.com/watch?v=yxggWnGFvZA&feature=youtu.be "Audi R8")
+[![LIVE-r](../master/img/LIVE-r.png)](https://www.youtube.com/watch?v=ozPiA5uE3Kw&feature=youtu.be "LIVE-r")
 Please find link to presention ![here](../master/LIVE-r%20Demo.pdf) 
 
 ## Liver cancer detection and classification system
